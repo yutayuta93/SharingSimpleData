@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SharingSimpleData</string>
+    <string name="send_to">メッセージの送信先:</string>
 </resources>
